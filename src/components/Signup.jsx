@@ -50,8 +50,8 @@ const Signup = () => {
 
           <p className="text-center text-lg m-1">or</p>
           <div className="flex flex-row items-center justify-center gap-6 text-2xl pb-2">
-            <BsGoogle className="border border-solid border-custom  rounded-md inline-flex justify-center items-center p-1 m-0.75 w-8 h-8 text-custom transition-colors duration-300 ease-in-out hover:text-white hover:bg-custom lg:w-10 lg:h-10" />
-            <BsFacebook className="border border-solid border-custom  rounded-md inline-flex justify-center items-center p-1 m-0.75 w-8 h-8 text-custom transition-colors duration-300 ease-in-out hover:text-white hover:bg-custom lg:w-10 lg:h-10" />
+            <BsGoogle className="border border-solid border-custom  rounded-md inline-flex justify-center items-center p-1 m-0.75 w-8 h-8 text-custom transition-colors duration-300 ease-in-out hover:text-white hover:bg-custom lg:w-10 lg:h-10 cursor-pointer" />
+            <BsFacebook className="border border-solid border-custom  rounded-md inline-flex justify-center items-center p-1 m-0.75 w-8 h-8 text-custom transition-colors duration-300 ease-in-out hover:text-white hover:bg-custom lg:w-10 lg:h-10 cursor-pointer" />
           </div>
         </section>
         <div className="text-center my-2 md:mt-8 w-full">
