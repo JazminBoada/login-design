@@ -20,7 +20,7 @@ const Signup = () => {
             You need an account to continue.
           </p>
 
-          <form className="flex flex-col lg:w-4/5 space-y-8 xl:w-full">
+          <form className="flex flex-col lg:w-4/5 space-y-8 lg:w-full">
             <div className="flex flex-col gap-8">
               <input
                 type="text"
